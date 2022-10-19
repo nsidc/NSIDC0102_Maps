@@ -1,0 +1,21 @@
+; Shakleton Ice Shelf 250 m   
+Map Projection:			Polar Stereographic Ellipsoid
+Map Reference Latitude:         -90.0
+Map Reference Longitude:        90.0
+Map Second Reference Latitude:  -71.0
+Map Equatorial Radius:          6378137.0          ; wgs84
+Map Polar Radius:               6356752.314245
+Map Origin X:			200500.0          ; -(250.0 * -802)
+Map Origin Y:			2865500.0          ;   250.0 * 11462
+Grid Map Origin Column:		0.0
+Grid Map Origin Row:		0.0
+Grid Map Units per Cell:	250
+Grid Width:			2200
+Grid Height:			1700
+
+
+;Corner Coordinates
+;UL: -63.999957 94.002482
+;LL: -67.733708 94.696125
+;UR: -63.216853 104.671938
+;LR: -66.808002 107.086644

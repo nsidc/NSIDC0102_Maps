@@ -1,0 +1,21 @@
+; East Getz Ice Shelf 250 m 
+Map Projection:			Polar Stereographic Ellipsoid
+Map Reference Latitude:         -90.0
+Map Reference Longitude:        -125.0
+Map Second Reference Latitude:  -71.0
+Map Equatorial Radius:          6378137.0          ; wgs84
+Map Polar Radius:               6356752.314245
+Map Origin X:			-166000.0          ; -(250.0 * 664)
+Map Origin Y:			1910500.0          ;   250.0 * 7642
+Grid Map Origin Column:		0.0
+Grid Map Origin Row:		0.0
+Grid Map Units per Cell:	250
+Grid Width:			2000
+Grid Height:			1400
+
+
+;Corner Coordinates
+;UL: -72.482390 -129.965858
+;LL: -75.627171 -131.071105
+;UR: -72.286861 -115.090851
+;LR: -75.387159 -112.929689

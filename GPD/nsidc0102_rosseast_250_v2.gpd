@@ -1,0 +1,22 @@
+
+; East Ross Ice Shelf 250 m   
+Map Projection:			Polar Stereographic Ellipsoid
+Map Reference Latitude:         -90.0
+Map Reference Longitude:        180.0
+Map Second Reference Latitude:  -71.0
+Map Equatorial Radius:          6378137.0          ; wgs84
+Map Polar Radius:               6356752.314245
+Map Origin X:			0.0          ; -(250.0 * 0)
+Map Origin Y:			1418400.0          ;   250.0 * 5673.6
+Grid Map Origin Column:		0.0
+Grid Map Origin Row:		0.0
+Grid Map Units per Cell:	250
+Grid Width:			2403
+Grid Height:			1808
+
+
+;Corner Coordinates
+;UL: -76.999343 180.000000
+;LL: -81.120380 180.000000
+;UR: -75.892624 -157.053933
+;LR: -79.554224 -148.150722

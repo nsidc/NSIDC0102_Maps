@@ -1,0 +1,20 @@
+; Abbot Ice Shelf 250m resolution
+Map Projection:			Polar Stereographic Ellipsoid
+Map Reference Latitude:         -90.0
+Map Reference Longitude:        -100.0
+Map Second Reference Latitude:  -70.0
+Map Equatorial Radius:          6378137.0          ; wgs84
+Map Polar Radius:               6356752.314245
+Map Origin X:			-176000.0          ; -(250.0 * 704)
+Map Origin Y:			2021000.0          ;   250.0 * 8084
+Grid Map Origin Column:		0.0
+Grid Map Origin Row:		0.0
+Grid Map Units per Cell:	250
+Grid Width:			2500
+Grid Height:			1300
+
+;Corner Coordinates
+;UL: -71.430666 -104.977081
+;LL: -74.351449 -105.923715
+;UR: -71.056695 -87.480948
+;LR: -73.905142 -85.181644

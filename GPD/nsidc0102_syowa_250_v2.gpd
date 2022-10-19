@@ -1,0 +1,20 @@
+;Syowa Station
+Map Projection:			Polar Stereographic Ellipsoid
+Map Reference Latitude:         -90.0
+Map Reference Longitude:        40.0
+Map Second Reference Latitude:  -71.0
+Map Equatorial Radius:          6378137.0          ; wgs84
+Map Polar Radius:               6356752.314245
+Map Origin X:			-308543.75	(-1234.175 * 250)
+Map Origin Y:			2512886.5	(10051.546 * 250)
+Grid Map Origin Column:		0.0
+Grid Map Origin Row:		0.0
+Grid Map Units per Cell:	250
+Grid Width:			2200
+Grid Height:			1700
+
+;Corner Coordinates
+;UL: -67.000000 32.999998
+;LL: -70.748700 31.594775
+;UR: -67.064815 45.482893
+;LR: -70.827409 46.589186

@@ -1,0 +1,21 @@
+; Porpoise Bay 250 m   
+Map Projection:			Polar Stereographic Ellipsoid
+Map Reference Latitude:         -90.0
+Map Reference Longitude:        0.0
+Map Second Reference Latitude:  -71.0
+Map Equatorial Radius:          6378137.0          ; wgs84
+Map Polar Radius:               6356752.314245
+Map Origin X:			1681000.0          ; -(250.0 * -6724)
+Map Origin Y:			-1410500.0          ;   250.0 * -5642
+Grid Map Origin Column:		0.0
+Grid Map Origin Row:		0.0
+Grid Map Units per Cell:	250
+Grid Width:			3200
+Grid Height:			3200
+
+
+;Corner Coordinates
+;UL: -70.001087 129.999470
+;LL: -64.838684 142.745289
+;UR: -64.164618 119.621610
+;LR: -60.091157 131.699773

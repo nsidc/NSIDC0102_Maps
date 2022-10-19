@@ -1,0 +1,21 @@
+; Riiser-Larsen Ice Shelf 250 m   
+Map Projection:			Polar Stereographic Ellipsoid
+Map Reference Latitude:         -90.0
+Map Reference Longitude:        0.0
+Map Second Reference Latitude:  -71.0
+Map Equatorial Radius:          6378137.0          ; wgs84
+Map Polar Radius:               6356752.314245
+Map Origin X:			-834400.0          ; -(250.0 * 3337.6 )
+Map Origin Y:			2161600.0          ;   250.0 * 8646.4
+Grid Map Origin Column:		0.0
+Grid Map Origin Row:		0.0
+Grid Map Units per Cell:	250
+Grid Width:			2285
+Grid Height:			3254
+
+
+;Corner Coordinates
+;UL: -68.906516 -21.107105
+;LL: -75.481311 -31.750482
+;UR: -70.151112 -6.947479
+;LR: -77.404595 -11.053520

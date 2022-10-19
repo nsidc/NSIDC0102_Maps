@@ -1,0 +1,21 @@
+; Sabrina Coast 250 m   
+Map Projection:			Polar Stereographic Ellipsoid
+Map Reference Latitude:         -90.0
+Map Reference Longitude:        0.0
+Map Second Reference Latitude:  -71.0
+Map Equatorial Radius:          6378137.0          ; wgs84
+Map Polar Radius:               6356752.314245
+Map Origin X:			2062250.0          ; -(250.0 * -8249)
+Map Origin Y:			-750500.0          ;   250.0 * -3002
+Grid Map Origin Column:		0.0
+Grid Map Origin Row:		0.0
+Grid Map Units per Cell:	250
+Grid Width:			3200
+Grid Height:			3600
+
+
+;Corner Coordinates
+;UL: -69.999348 109.997605
+;LL: -66.032441 128.667431
+;UR: -63.245852 104.693788
+;LR: -60.253637 119.968062

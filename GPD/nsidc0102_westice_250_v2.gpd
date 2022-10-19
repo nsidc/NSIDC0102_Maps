@@ -1,0 +1,20 @@
+; West Ice Shelf 250 m   
+Map Projection:			Polar Stereographic Ellipsoid
+Map Reference Latitude:         -90.0
+Map Reference Longitude:        90.0
+Map Second Reference Latitude:  -71.0
+Map Equatorial Radius:          6378137.0          ; wgs84
+Map Polar Radius:               6356752.314245
+Map Origin X:			-407750.0          ; -(250.0 * 1631)
+Map Origin Y:			2728250.0          ;   250.0 * 10913
+Grid Map Origin Column:		0.0
+Grid Map Origin Row:		0.0
+Grid Map Units per Cell:	250
+Grid Width:			1400
+Grid Height:			1300
+
+;Corner Coordinates
+;UL: -64.999562 81.499788
+;LL: -67.832484 80.371534
+;UR: -65.260581 88.782130
+;LR: -68.131251 88.617637

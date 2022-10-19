@@ -1,0 +1,21 @@
+; Wordie Ice Shelf 250 m   
+Map Projection:			Polar Stereographic Ellipsoid
+Map Reference Latitude:         -90.0
+Map Reference Longitude:        -60.0
+Map Second Reference Latitude:  -71.0
+Map Equatorial Radius:          6378137.0          ; wgs84
+Map Polar Radius:               6356752.314245
+Map Origin X:			-429835.0	; 250 * -1719.34
+Map Origin Y:			2437712.5	; 250 * -9750.85
+Grid Map Origin Column:		0.0
+Grid Map Origin Row:		0.0
+Grid Map Units per Cell:	250
+Grid Width:			1200
+Grid Height:			1200
+
+;Corner Coordinates
+;UL: -67.500009 -70.000012
+;LL: -70.122911 -71.367707
+;UR: -67.802845 -63.054609
+;LR: -70.470203 -63.481887
+

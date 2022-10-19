@@ -1,0 +1,21 @@
+; Wilkins Ice Shelf 250 m   
+Map Projection:			Polar Stereographic Ellipsoid
+Map Reference Latitude:         -90.0
+Map Reference Longitude:        -60.0
+Map Second Reference Latitude:  -70.0
+Map Equatorial Radius:          6378137.0          ; wgs84
+Map Polar Radius:               6356752.314245
+Map Origin X:			-643000.0          ; -(250.0 * 2572)
+Map Origin Y:			2320500.0          ;   250.0 * 9282
+Grid Map Origin Column:		0.0
+Grid Map Origin Row:		0.0
+Grid Map Units per Cell:	250
+Grid Width:			1856
+Grid Height:			2664
+
+
+;Corner Coordinates
+;UL: -68.033833 -75.487811
+;LL: -73.717856 -81.235048 
+;UR: -68.752065 -64.417114
+;LR: -74.722679 -66.182431

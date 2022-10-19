@@ -1,0 +1,21 @@
+; Filchner Ice Shelf 250 m   
+Map Projection:			Polar Stereographic Ellipsoid
+Map Reference Latitude:         -90.0
+Map Reference Longitude:        0.0
+Map Second Reference Latitude:  -71.0
+Map Equatorial Radius:          6378137.0          ; wgs84
+Map Polar Radius:               6356752.314245
+Map Origin X:			-1086000.0          ; -(250.0 * 4344)
+Map Origin Y:			1324000.0          ;   250.0 * 5296
+Grid Map Origin Column:		0.0
+Grid Map Origin Row:		0.0
+Grid Map Units per Cell:	250
+Grid Width:			2176
+Grid Height:			2236
+
+
+;Corner Coordinates
+;UL: -74.333890 -39.360032
+;LL: -77.816880 -54.829558
+;UR: -76.887199 -22.271768
+;LR: -81.383575 -35.321080

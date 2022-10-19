@@ -1,0 +1,21 @@
+;Sulzberger Ice Shelf 250 m 
+Map Projection:			Polar Stereographic Ellipsoid
+Map Reference Latitude:         -90.0
+Map Reference Longitude:        0.0
+Map Second Reference Latitude:  -71.0
+Map Equatorial Radius:          6378137.0          ; wgs84
+Map Polar Radius:               6356752.314245
+Map Origin X:			-911685.0
+Map Origin Y:			-1086502.5
+Grid Map Origin Column:		0.0
+Grid Map Origin Row:		0.0
+Grid Map Units per Cell:	250
+Grid Width:			1500
+Grid Height:			1000
+
+
+;Corner Coordinates
+;UL: -76.999988 -139.999964
+;LL: -75.191503 -145.695455
+;UR: -78.879394 -153.702034
+;LR: -76.802176 -158.108677

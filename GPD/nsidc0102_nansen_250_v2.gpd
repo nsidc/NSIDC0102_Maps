@@ -1,0 +1,20 @@
+; Nansen 250 m   
+Map Projection:			Polar Stereographic Ellipsoid
+Map Reference Latitude:         -90.0
+Map Reference Longitude:        180.0
+Map Second Reference Latitude:  -71.0
+Map Equatorial Radius:          6378137.0          ; wgs84
+Map Polar Radius:               6356752.314245
+Map Origin X:			-788890.0
+Map Origin Y:			2167457.5
+Grid Map Origin Column:		0.0
+Grid Map Origin Row:		0.0
+Grid Map Units per Cell:	250
+Grid Width:			2500
+Grid Height:			2800
+
+;Corner Coordinates
+;UL: -68.999998 160.000000
+;LL: -74.751076 151.742055
+;UR: -70.186209 175.669298
+;LR: -76.468218 173.618883

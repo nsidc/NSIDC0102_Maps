@@ -1,0 +1,20 @@
+; Ragnhild Coast 250 m   
+Map Projection:			Polar Stereographic Ellipsoid
+Map Reference Latitude:         -90.0
+Map Reference Longitude:        30.0
+Map Second Reference Latitude:  -71.0
+Map Equatorial Radius:          6378137.0          ; wgs84
+Map Polar Radius:               6356752.314245
+Map Origin X:			-294799.0		(-1179.196 * 250)
+Map Origin Y:			2400944.3	(9603.777 * 250)
+Grid Map Origin Column:		0.0
+Grid Map Origin Row:		0.0
+Grid Map Units per Cell:	250
+Grid Width:			2000
+Grid Height:			1600
+
+;Corner Coordinates
+;UL: -67.999999 22.999997
+;LL: -71.537880 21.619942
+;UR: -68.082598 34.879092
+;LR: -71.637792 35.847522

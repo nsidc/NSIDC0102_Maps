@@ -1,0 +1,21 @@
+; Pine Island Glacier 250 m   
+Map Projection:			Polar Stereographic Ellipsoid
+Map Reference Latitude:         -90.0
+Map Reference Longitude:        -100.0
+Map Second Reference Latitude:  -70.0
+Map Equatorial Radius:          6378137.0          ; wgs84
+Map Polar Radius:               6356752.314245
+Map Origin X:			-462000.0          ; -(250.0 * 1848)
+Map Origin Y:			1910500.0          ;   250.0 * 7642
+Grid Map Origin Column:		0.0
+Grid Map Origin Row:		0.0
+Grid Map Units per Cell:	250
+Grid Width:			2000
+Grid Height:			1600
+
+
+;Corner Coordinates
+;UL: -71.998860 -113.594373
+;LL: -75.491196 -117.004071
+;UR: -72.492200 -98.868027 
+;LR: -76.115095 -98.568614

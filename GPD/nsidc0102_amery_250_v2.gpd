@@ -1,0 +1,20 @@
+; Amery Ice Shelf 250 m   --  equivalent to amery_250.gpd
+Map Projection:			Polar Stereographic Ellipsoid
+Map Reference Latitude:         -90.0
+Map Reference Longitude:        90.0
+Map Second Reference Latitude:  -71.0
+Map Equatorial Radius:          6378137.0          ; wgs84
+Map Polar Radius:               6356752.314245
+Map Origin X:			-960500.0          ; -(250.0 * 3842.0)
+Map Origin Y:			2347500.0          ;   250.0 * 9390.0
+Grid Map Origin Column:		0.0
+Grid Map Origin Row:		0.0
+Grid Map Units per Cell:	250
+Grid Width:			1832
+Grid Height:			1748
+
+;Corner Coordinates
+;UL: -66.958927 67.747650
+;LL: -70.500059 63.312138
+;UR: -68.162064 77.911910
+;LR: -71.960057 75.258651

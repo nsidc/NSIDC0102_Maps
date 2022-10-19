@@ -1,0 +1,20 @@
+; Lazarev Ice Shelf 250 m   
+Map Projection:			Polar Stereographic Ellipsoid
+Map Reference Latitude:         -90.0
+Map Reference Longitude:        15.0
+Map Second Reference Latitude:  -71.0
+Map Equatorial Radius:          6378137.0          ; wgs84
+Map Polar Radius:               6356752.314245
+Map Origin X:			-123655.25	(-494.621 * 250)
+Map Origin Y:			2359484.50	(9437.938 * 250)
+Grid Map Origin Column:		0.0
+Grid Map Origin Row:		0.0
+Grid Map Units per Cell:	250
+Grid Width:			2000
+Grid Height:			1600
+
+;Corner Coordinates
+;UL: -68.500000 12.000002
+;LL: -72.069277 11.389540
+;UR: -68.263926 24.056587
+;LR: -71.782959 25.863611

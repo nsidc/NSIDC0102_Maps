@@ -1,0 +1,22 @@
+; Mertz Glacier 250 m   
+Map Projection:			Polar Stereographic Ellipsoid
+Map Reference Latitude:         -90.0
+Map Reference Longitude:        145.0
+Map Second Reference Latitude:  -71.0
+Map Equatorial Radius:          6378137.0          ; wgs84
+Map Polar Radius:               6356752.314245
+Map Origin X:			-572166.93125          ; -(250.0 * 2288.667725)
+Map Origin Y:			2760638.42775         ;   250.0 * 11042.553711
+Grid Map Origin Column:		0.0
+Grid Map Origin Row:		0.0
+Grid Map Units per Cell:	250
+Grid Width:			4500
+Grid Height:			2250
+
+
+;Corner Coordinates
+;UL: -64.466132 133.290723
+;LL: -69.311396 130.411481
+;UR: -64.500422 156.319020
+;LR: -69.354683 159.109464
+ 

@@ -1,0 +1,20 @@
+; Ronne Ice Shelf 250 m   
+Map Projection:			Polar Stereographic Ellipsoid
+Map Reference Latitude:         -90.0
+Map Reference Longitude:        0.0
+Map Second Reference Latitude:  -71.0
+Map Equatorial Radius:          6378137.0          ; wgs84
+Map Polar Radius:               6356752.314245
+Map Origin X:			-1585000.0          ; -(250.0 * 6340)
+Map Origin Y:			1237000.0          ;   250.0 * 4948
+Grid Map Origin Column:		0.0
+Grid Map Origin Row:		0.0
+Grid Map Units per Cell:	250
+Grid Width:			2960
+Grid Height:			2928
+
+;Corner Coordinates
+;UL: -71.647590 -52.030040
+;LL: -74.775559 -72.319294
+;UR: -76.274403 -34.345045
+;LR: -80.954805 -59.131038

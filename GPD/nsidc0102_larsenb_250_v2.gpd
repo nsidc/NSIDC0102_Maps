@@ -1,0 +1,22 @@
+; Larsen B Ice Shelf 250 m   
+Map Projection:			Polar Stereographic Ellipsoid
+Map Reference Latitude:         -90.0
+Map Reference Longitude:        -60.0
+Map Second Reference Latitude:  -70.0
+Map Equatorial Radius:          6378137.0          ; wgs84
+Map Polar Radius:               6356752.314245
+Map Origin X:			-176500.0          ; -(250.0 * 706)
+Map Origin Y:			2898500.0          ;   250.0 * 11594
+Grid Map Origin Column:		0.0
+Grid Map Origin Row:		0.0
+Grid Map Units per Cell:	250
+Grid Width:			1316
+Grid Height:			1384
+
+
+;Corner Coordinates
+;UL: -63.649303 -63.484642
+;LL: -66.692422 -63.955200
+;UR: -63.661344 -56.993178
+;LR: -66.706242 -56.586833
+

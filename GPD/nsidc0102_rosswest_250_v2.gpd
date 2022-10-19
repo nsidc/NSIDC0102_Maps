@@ -1,0 +1,21 @@
+; West Ross Ice Shelf 250 m   
+Map Projection:			Polar Stereographic Ellipsoid
+Map Reference Latitude:         -90.0
+Map Reference Longitude:        180.0
+Map Second Reference Latitude:  -71.0
+Map Equatorial Radius:          6378137.0          ; wgs84
+Map Polar Radius:               6356752.314245
+Map Origin X:			-634500.0          ; -(250.0 * 2538)
+Map Origin Y:			1570750.0          ;   250.0 * 6283
+Grid Map Origin Column:		0.0
+Grid Map Origin Row:		0.0
+Grid Map Units per Cell:	250
+Grid Width:			2700
+Grid Height:			1850
+
+
+;Corner Coordinates
+;UL: -74.499841 158.003895
+;LL: -78.283990 150.213388
+;UR: -75.611646 -178.532134
+;LR: -79.816828 -177.920485
